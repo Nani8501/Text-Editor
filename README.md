@@ -26,11 +26,14 @@ The text editor provides a menu bar with the following options:
   - `Open`: Opens an existing file.
   - `Save`: Saves the contents of the current file.
   -` Exit`: Closes the text editor.
+
 - **Edit**
   - `Undo`:Undoes the last operation.
   - `Redo`: Redoes the last operation.
+ 
 -**View**
   -`Toggle Dark Mode`: Toggles the background color between white and dark grey.
+
 ### Status bar
 The text editor also has a status bar which displays the number of words and lines in the file.
 
