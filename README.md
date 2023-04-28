@@ -56,6 +56,7 @@ The text editor is a basic implementation and has the following limitations:
 This project provides a simple yet functional text editor using the tkinter library in Python. It can be used for basic text editing tasks and can be extended further to include more advanced functionality.
 
 
-
+## Credits
+The project code is written by an  [Jagadeesh Kokkula](https://www.linkedin.com/in/jagadeeshkokkula/ "Jagadeesh Kokkula"). The project was developed using the tkinter and pygame libraries.
 
 
